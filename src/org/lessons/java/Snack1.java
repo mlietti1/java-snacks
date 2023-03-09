@@ -9,7 +9,7 @@ public class Snack1 {
         int num = Integer.parseInt(scan.nextLine());
         if(num % 2 == 0){
             System.out.println(num + " è un numero pari.");
-        }else{
+        }else {
             System.out.println(num + "è un numero dispari.");
         }
         scan.close();
