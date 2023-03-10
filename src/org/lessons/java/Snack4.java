@@ -12,6 +12,7 @@ public class Snack4 {
         System.out.print("Length of the second array: ");
         int arrLength2 = Integer.parseInt(scan.nextLine());
 
+
         if(arrLength1 == arrLength2){
             System.out.println("The two arrays have the same length.");
         }else {
